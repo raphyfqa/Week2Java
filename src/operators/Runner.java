@@ -1,4 +1,4 @@
-package com.qa.day1;
+package operators;
 
 public class Runner {
 

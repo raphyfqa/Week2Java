@@ -1,4 +1,4 @@
-package operators_results;
+package exam_results;
 
 public class Results {
 
